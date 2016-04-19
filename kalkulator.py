@@ -3,3 +3,6 @@ def kalkulator (operacja, a ,b):
 	
 def operacja (x,y)
 	return (x+y)
+	
+def mnozenie (x,y)
+	return (x*y)
